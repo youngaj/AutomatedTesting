@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AutomatedTesting")]
+[assembly: AssemblyTitle("SampleProject")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NASA ACES")]
-[assembly: AssemblyProduct("AutomatedTesting")]
+[assembly: AssemblyProduct("SampleProject")]
 [assembly: AssemblyCopyright("Copyright © NASA ACES 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("07e71f5f-e910-4c10-bc0d-b718d4ed961f")]
+[assembly: Guid("bbbad7f4-4a90-43a4-9dc9-a9c35640c9a6")]
 
 // Version information for an assembly consists of the following four values:
 //
